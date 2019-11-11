@@ -1,0 +1,16 @@
+body {
+  overflow-x: hidden;
+}
+
+.col-products{
+  margin-left: 10%;
+}
+
+.card {
+  padding: 5%;
+  margin: 20px;
+}
+
+.cart-wrapper {
+  margin-top: 50px;
+}
